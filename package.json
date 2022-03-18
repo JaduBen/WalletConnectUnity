@@ -10,5 +10,17 @@
   "dependencies": {
     "com.unity.nuget.newtonsoft-json": "2.0.0"
   },
-  "type": "library"
+  "type": "library",
+  "samples":[
+    {
+      "displayName": "Full Session",
+      "description": "",
+      "path": "Samples~/Full Session"
+    },
+    {
+      "displayName": "Single Sign Session",
+      "description": "",
+      "path": "Samples~/SSS (Single Sign Session)"
+    }
+  ]
 }
