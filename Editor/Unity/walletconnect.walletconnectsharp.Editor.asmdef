@@ -1,0 +1,17 @@
+{
+    "name": "walletconnect.walletconnectunity.Editor",
+    "rootNamespace": "",
+    "references": [
+        "walletconnect.walletconnectsharp",
+        "walletconnect.walletconnectsharp.unity"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

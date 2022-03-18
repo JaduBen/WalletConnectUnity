@@ -1,11 +1,14 @@
 {
-    "name": "com.walletconnect.walletconnectunity",
-    "displayName": "Wallet Connect Unity",
-    "version": "0.0.1",
-    "unity": "2018.2",
-    "keywords": ["wallet"],
-	"description": "WalletConnect support for Unity.",
-	"dependencies": {
-		"com.unity.nuget.newtonsoft-json": "2.0.0"
-	}
+  "name": "com.walletconnect.walletconnectunity",
+  "displayName": "Wallet Connect Unity",
+  "version": "0.0.2",
+  "unity": "2018.2",
+  "keywords": [
+    "wallet"
+  ],
+  "description": "WalletConnect support for Unity.",
+  "dependencies": {
+    "com.unity.nuget.newtonsoft-json": "2.0.0"
+  },
+  "type": "library"
 }
