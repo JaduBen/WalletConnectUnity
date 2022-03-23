@@ -1,5 +1,5 @@
 {
-    "name": "walletconnect.walletconnectunity.Editor",
+    "name": "walletconnect.walletconnectsharp.Editor",
     "rootNamespace": "",
     "references": [
         "walletconnect.walletconnectsharp.Runtime.Core",

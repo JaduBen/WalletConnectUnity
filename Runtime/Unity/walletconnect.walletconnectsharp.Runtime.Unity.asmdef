@@ -2,8 +2,8 @@
     "name": "walletconnect.walletconnectsharp.Runtime.Unity",
     "rootNamespace": "",
     "references": [
-        "walletconnect.walletconnectsharp",
-        "endel.nativewebsocket"
+        "endel.nativewebsocket",
+        "walletconnect.walletconnectsharp.Runtime.Core"
     ],
     "includePlatforms": [],
     "excludePlatforms": [],
