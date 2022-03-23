@@ -2,8 +2,8 @@
     "name": "walletconnect.walletconnectunity.Editor",
     "rootNamespace": "",
     "references": [
-        "walletconnect.walletconnectsharp",
-        "walletconnect.walletconnectsharp.unity"
+        "walletconnect.walletconnectsharp.Runtime.Core",
+        "walletconnect.walletconnectsharp.Runtime.Unity"
     ],
     "includePlatforms": [],
     "excludePlatforms": [],

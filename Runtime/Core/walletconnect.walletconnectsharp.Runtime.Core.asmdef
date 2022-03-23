@@ -1,9 +1,7 @@
 {
-    "name": "walletconnect.walletconnectunity",
+    "name": "walletconnect.walletconnectsharp.Runtime.Core",
     "rootNamespace": "",
-    "references": [
-        "walletconnect.walletconnectsharp"
-    ],
+    "references": [],
     "includePlatforms": [],
     "excludePlatforms": [],
     "allowUnsafeCode": false,
