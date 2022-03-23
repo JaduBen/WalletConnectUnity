@@ -14,6 +14,9 @@ using WalletConnectSharp.Core.Network;
 using WalletConnectSharp.Unity.Models;
 using WalletConnectSharp.Unity.Network;
 using WalletConnectSharp.Unity.Utils;
+#if UNITY_IOS
+using System.Net;
+#endif
 
 namespace WalletConnectSharp.Unity
 {
